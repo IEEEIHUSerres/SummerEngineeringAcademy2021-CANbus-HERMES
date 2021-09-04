@@ -4,8 +4,8 @@
 στην 4η Θερινή Ακαδημία Μηχανικής που έγινε στο Αυτοκινητοδρόμιο Σερρών.
 ---
 ## Αρχεία
-* 1ο Μέρος - [Εισαγωγή στο CANbus](./raw/master/CANbus.pdf)
-* 2ο Μέρος - [Η ομάδα HERMES](./raw/master/HERMES.pdf)
+* 1ο Μέρος - [Εισαγωγή στο CANbus](https://github.com/IEEEIHUSerres/SummerEngineeringAcademy2021-CANbus-HERMES/raw/master/CANbus.pdf)
+* 2ο Μέρος - [Η ομάδα HERMES](https://github.com/IEEEIHUSerres/SummerEngineeringAcademy2021-CANbus-HERMES/raw/master/HERMES.pdf)
 * Βίντεο Ομάδας - [Βίντεο στο YouTube](https://www.youtube.com/watch?v=KKsE1y1sdHU)
 ---
 ## Μάθετε περισσότερα για το IEEE
